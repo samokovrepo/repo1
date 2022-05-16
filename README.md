@@ -1,4 +1,4 @@
-# repo1
+# sample-markdown
 
 # This is an example repo
 
