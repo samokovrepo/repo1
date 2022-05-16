@@ -27,7 +27,7 @@ This page is example for [hashicorp](https://hashicorp.com)
 
 ![Hashicorp Logo](https://www.datocms-assets.com/2885/1620155114-brandhcterraformprimaryattributedcolorwhite.svg)
 
-This is a list:
+This is a number list:
 1. Item one
 2. Item two
 3. Item three
