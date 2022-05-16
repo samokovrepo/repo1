@@ -1,6 +1,5 @@
-# repo1
+# sample-markdown
 
-# This is an example repo
 
 **BOLD**
 
@@ -38,3 +37,4 @@ or with bullets:
 * two
 * three
 
+## Example text
