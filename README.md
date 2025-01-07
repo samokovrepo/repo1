@@ -14,7 +14,7 @@
 This text is a normal
 > This is a quote
 
-This is a code block:
+This is a sample code block:
 
 ```
 Code
